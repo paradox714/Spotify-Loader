@@ -38,7 +38,7 @@ async def get_stats(id):
 # Buttons
 START_BUTTONS=[
     [
-        InlineKeyboardButton("Source", Confidential"),
+        InlineKeyboardButton("Source", url="https://t.me/+bDupJDbTNag4NTA1"),
         InlineKeyboardButton("Project Channel", url="https://t.me/Marianatrench_bot"),
     ],
     [InlineKeyboardButton("Author", url="https://t.me/TheRaj71_bot")],
